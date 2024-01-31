@@ -15,6 +15,7 @@
 ## Projects
 ### [Tableau COVID-19 Interactive Dashboard](https://public.tableau.com/app/profile/kwame.owusu/viz/CanadaCovidTracker_16758076384150/COVID-19Tracker)
 - Built interactive COVID-19 Tracker visualized with a Tableau Dashboard; consists of charts made with sets, calculated fields, parameters, and sheet swapping
+
 ### [Global Automakers Financial Analysis](https://www.autotribute.com/auto-industry-performance-analysis-2023/)
 - Conducted detailed analysis of financial performance of the top global automakers for the 2022 fiscal year, wrote comprehensive reports with Detailed written report with charts created using VLOOKUP and Pivot Tables for visual aide
 
